@@ -119,4 +119,4 @@ $ vim /home/git/.ssh/authorized_keys
 $ cd /srv
 $ git init --bare sample.git
 $ cat /etc/passswd #git:x:506:506:,,,:/home/git:/usr/bin/git-shell
-$ git clone ssh://git@115.28.145.65:22222/srv/sample.git
+$ git clone ssh://git@115.28.145.65:22xxx/srv/sample.git
